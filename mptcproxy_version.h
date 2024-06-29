@@ -5,5 +5,5 @@
  *
 */
 #ifndef build_version_
-#define build_version_ "0.5.41"
+#define build_version_ "0.5.42"
 #endif /* build_version_ */
